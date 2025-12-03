@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-IMPORT_DIR = "~/Documentos/alba/data"
+IMPORT_DIR = "./data"
 EXPORT_DIR = "./exports"
 
 PAIS_COLORES = {"USA": "#082f6d", "United Kingdom": "#c8102e", "Switzerland": "#8bb311", "Sweden": "#fecc00", "Spain": "#9672bd", "Portugal": "#006600",
