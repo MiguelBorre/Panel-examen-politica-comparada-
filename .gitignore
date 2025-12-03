@@ -1,0 +1,9 @@
+*.pdf
+*.png
+*.json
+*.zip
+*.ipynb
+*.txt
+*.xls
+/exports
+main.py
