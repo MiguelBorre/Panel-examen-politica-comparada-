@@ -3,7 +3,7 @@
 *.json
 *.zip
 *.ipynb
-*.txt
+Mensajes_descodificados.txt
 *.xls
 /exports
 main.py
